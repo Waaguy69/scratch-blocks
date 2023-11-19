@@ -1,4 +1,4 @@
-name: build-scratch-blocks
+name: blocksh-blocks
 on: 
     push: 
         branches: [master, develop, beta, hotfix/*]
